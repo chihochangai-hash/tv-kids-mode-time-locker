@@ -2,11 +2,7 @@
 
 Android TV 的開機帳號桌面。小朋友在平日 8:00–21:00、週六日 8:00–22:00 才能看。每一輪預設 30 或 60 分鐘，時間只在別的 App 或 HDMI 前面才倒數。時間到回到帳號頁，不關電視。同一天剩下的時間可以接著用，過了午夜就重新給一輪。家長可以加時，或給當天不限分鐘，但仍然受上面的時段限制。
 
-這份是公開用的乾淨程式。家裡正在用的那份不在這個資料夾。
-
 An Android TV home screen with separate accounts. Children can watch on weekdays from 8:00 to 21:00, and on Saturday and Sunday from 8:00 to 22:00. Each round starts at 30 or 60 minutes. The clock runs only while another app or an HDMI input is in front. When time is up, the TV returns to the account page and stays on. Time left the same day can be resumed. After local midnight the next login starts a fresh round. A parent can add minutes, or allow unlimited minutes for that day. Unlimited use is still limited to the hours above.
-
-This folder is the cleaned public source. It is not the copy running in one particular home.
 
 ## 資料夾
 
