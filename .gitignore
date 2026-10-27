@@ -1,0 +1,14 @@
+.gradle/
+build/
+local.properties
+*.apk
+*.iml
+.idea/
+*.pem
+*.key
+state.json
+cookies.txt
+login.json
+host.log
+__pycache__/
+*.pyc

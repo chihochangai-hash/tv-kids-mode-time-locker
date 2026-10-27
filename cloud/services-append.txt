@@ -1,0 +1,8 @@
+
+# Entware + Shutdown Timer host
+if [ -d /jffs/opt ]; then
+  mkdir -p /tmp/opt
+  mount | grep -q " on /tmp/opt " || mount --bind /jffs/opt /tmp/opt
+  [ -x /opt/etc/init.d/rc.unslung ] && /opt/etc/init.d/rc.unslung start
+fi
+( sleep 8; /jffs/scripts/start-shutdown-timer.sh ) &

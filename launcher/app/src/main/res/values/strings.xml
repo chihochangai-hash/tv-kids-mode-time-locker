@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">收看時間</string>
+    <string name="guard_desc">兒童收看時，把沒有允許的程式送回兒童畫面。不讀畫面內容，也不攔截按鍵。</string>
+</resources>
