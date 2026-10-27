@@ -3,10 +3,10 @@ plugins {
 }
 
 android {
-    namespace "app.cleanyourtv.home"
+    namespace "app.tvkids.timelocker"
     compileSdk 35
     defaultConfig {
-        applicationId "app.cleanyourtv.home"
+        applicationId "app.tvkids.timelocker"
         minSdk 26
         targetSdk 34
         versionCode 1

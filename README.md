@@ -6,7 +6,7 @@ Android TV 的開機帳號桌面。小朋友在平日 8:00–21:00、週六日 8
 
 ## 資料夾
 
-- `launcher/`：電視 App，套件 `app.cleanyourtv.home`。
+- `launcher/`：電視 App，套件 `app.tvkids.timelocker`。
 - `cloud/`：手機網頁用的 HTTPS 轉送。電視主動連出來。憑證和 `state.json` 在第一次執行時產生，不要提交。
 
 ## 使用前要自己填
