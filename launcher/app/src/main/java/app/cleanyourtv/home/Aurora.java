@@ -8,7 +8,7 @@ import android.graphics.RadialGradient;
 import android.graphics.Shader;
 import android.view.View;
 
-/** Teal and violet light on navy, darker toward the bottom. Same idea as CleanYourTV's aurora theme. */
+/** Teal and violet light on navy, darker toward the bottom. */
 public final class Aurora extends View {
     private final Paint paint = new Paint(Paint.ANTI_ALIAS_FLAG);
     private int drawnW;
